@@ -1,0 +1,1149 @@
+2025-08-14 10:20:17,238 - Knowledge - INFO - Redis support added with prefix knowledge:b1454nw:
+2025-08-14 10:20:17,512 - Knowledge - INFO - load persisted knowledge: begin
+2025-08-14 10:20:17,628 - Knowledge - INFO - load persisted knowledge: end
+2025-08-14 10:20:17,709 - Knowledge - INFO - load persisted docinfo: begin
+2025-08-14 10:20:17,788 - Knowledge - INFO - load persisted docinfo: end
+2025-08-14 10:20:17,902 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-08-14 10:20:17,980 - Knowledge - INFO - knowledge worker kw1 start
+2025-08-14 10:20:17,982 - Knowledge - INFO - worker kw2 created with dedicated MongoDB connection (total: 2)
+2025-08-14 10:20:18,062 - Knowledge - INFO - worker kw1 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/checkmeta.py from ingest queue
+2025-08-14 10:20:18,169 - Knowledge - INFO - knowledge worker kw2 start
+2025-08-14 10:20:18,171 - Knowledge - INFO - worker kw3 created with dedicated MongoDB connection (total: 3)
+2025-08-14 10:20:18,302 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/checkmeta.py
+2025-08-14 10:20:18,369 - Knowledge - INFO - worker kw2 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/lf.py from ingest queue
+2025-08-14 10:20:18,452 - Knowledge - INFO - knowledge worker kw3 start
+2025-08-14 10:20:18,454 - Knowledge - INFO - worker kw4 created with dedicated MongoDB connection (total: 4)
+2025-08-14 10:20:18,572 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:18,684 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/lf.py
+2025-08-14 10:20:18,731 - Knowledge - INFO - worker kw3 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/build_docs.py from ingest queue
+2025-08-14 10:20:18,825 - Knowledge - INFO - knowledge worker kw4 start
+2025-08-14 10:20:18,826 - Knowledge - INFO - worker kw5 created with dedicated MongoDB connection (total: 5)
+2025-08-14 10:20:19,267 - Knowledge - INFO - knowledge worker kw5 start
+2025-08-14 10:20:18,980 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:19,112 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/build_docs.py
+2025-08-14 10:20:19,176 - Knowledge - INFO - worker kw4 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/pyproject.toml from ingest queue
+2025-08-14 10:20:18,909 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:19,270 - Knowledge - INFO - worker kw6 created with dedicated MongoDB connection (total: 6)
+2025-08-14 10:20:19,369 - Knowledge - INFO - worker kw5 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/mkdocs.yml from ingest queue
+2025-08-14 10:20:19,446 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:19,535 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:19,658 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/pyproject.toml
+2025-08-14 10:20:19,724 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/checkmeta.py
+2025-08-14 10:20:19,830 - Knowledge - INFO - knowledge worker kw6 start
+2025-08-14 10:20:19,832 - Knowledge - INFO - worker kw7 created with dedicated MongoDB connection (total: 7)
+2025-08-14 10:20:19,974 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/mkdocs.yml
+2025-08-14 10:20:20,023 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/lf.py
+2025-08-14 10:20:20,092 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:20,167 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:20,372 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/checkmeta.py to ingest queue
+2025-08-14 10:20:20,542 - Knowledge - INFO - knowledge worker kw7 start
+2025-08-14 10:20:20,548 - Knowledge - INFO - worker kw8 created with dedicated MongoDB connection (total: 8)
+2025-08-14 10:20:20,846 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/build_docs.py
+2025-08-14 10:20:20,934 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:21,027 - Knowledge - INFO - worker kw1 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/metadata.md from ingest queue
+2025-08-14 10:20:21,028 - Knowledge - INFO - worker kw6 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/main.md from ingest queue
+2025-08-14 10:20:21,028 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:21,098 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/lf.py to ingest queue
+2025-08-14 10:20:21,208 - Knowledge - INFO - knowledge worker kw8 start
+2025-08-14 10:20:21,210 - Knowledge - INFO - worker kw9 created with dedicated MongoDB connection (total: 9)
+2025-08-14 10:20:21,380 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/pyproject.toml
+2025-08-14 10:20:21,542 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/metadata.md
+2025-08-14 10:20:21,622 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/main.md
+2025-08-14 10:20:21,670 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:21,766 - Knowledge - INFO - worker kw7 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/text.md from ingest queue
+2025-08-14 10:20:21,816 - Knowledge - INFO - worker kw2 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/image.md from ingest queue
+2025-08-14 10:20:21,816 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/build_docs.py to ingest queue
+2025-08-14 10:20:21,942 - Knowledge - INFO - knowledge worker kw9 start
+2025-08-14 10:20:21,944 - Knowledge - INFO - worker kw10 created with dedicated MongoDB connection (total: 10)
+2025-08-14 10:20:22,338 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/mkdocs.yml
+2025-08-14 10:20:22,433 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/text.md
+2025-08-14 10:20:22,562 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/image.md
+2025-08-14 10:20:22,596 - Knowledge - INFO - worker kw8 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/tools.md from ingest queue
+2025-08-14 10:20:22,654 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:22,654 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:22,654 - Knowledge - INFO - worker kw3 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/ipfs.md from ingest queue
+2025-08-14 10:20:22,654 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/pyproject.toml to ingest queue
+2025-08-14 10:20:22,767 - Knowledge - INFO - knowledge worker kw10 start
+2025-08-14 10:20:22,769 - Knowledge - INFO - worker kw11 created with dedicated MongoDB connection (total: 11)
+2025-08-14 10:20:23,166 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/tools.md
+2025-08-14 10:20:23,213 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:23,285 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:23,404 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/ipfs.md
+2025-08-14 10:20:23,496 - Knowledge - INFO - worker kw9 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/pdf.md from ingest queue
+2025-08-14 10:20:23,548 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:24,191 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:23,549 - Knowledge - INFO - worker kw4 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/epub.md from ingest queue
+2025-08-14 10:20:23,549 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/mkdocs.yml to ingest queue
+2025-08-14 10:20:23,684 - Knowledge - INFO - knowledge worker kw11 start
+2025-08-14 10:20:23,685 - Knowledge - INFO - worker kw12 created with dedicated MongoDB connection (total: 12)
+2025-08-14 10:20:23,838 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/metadata.md
+2025-08-14 10:20:23,914 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/main.md
+2025-08-14 10:20:24,144 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/pdf.md
+2025-08-14 10:20:23,549 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:24,264 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/text.md
+2025-08-14 10:20:24,412 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/epub.md
+2025-08-14 10:20:24,497 - Knowledge - INFO - worker kw10 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai/exiv2.md from ingest queue
+2025-08-14 10:20:24,498 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:24,498 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:24,498 - Knowledge - INFO - worker kw5 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/images/build_docs.py from ingest queue
+2025-08-14 10:20:24,587 - Knowledge - INFO - worker kw11 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/video.md from ingest queue
+2025-08-14 10:20:24,661 - Knowledge - INFO - knowledge worker kw12 start
+2025-08-14 10:20:24,662 - Knowledge - INFO - worker kw13 created with dedicated MongoDB connection (total: 13)
+2025-08-14 10:20:24,791 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/metadata.md to ingest queue
+2025-08-14 10:20:25,001 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:25,310 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai/exiv2.md
+2025-08-14 10:20:25,356 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:25,458 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:26,229 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/ipfs.md
+2025-08-14 10:20:25,645 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/video.md
+2025-08-14 10:20:25,849 - Knowledge - INFO - knowledge worker kw13 start
+2025-08-14 10:20:25,851 - Knowledge - INFO - worker kw14 created with dedicated MongoDB connection (total: 14)
+2025-08-14 10:20:25,925 - Knowledge - INFO - worker kw1 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/audio.md from ingest queue
+2025-08-14 10:20:25,928 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:25,928 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:25,928 - Knowledge - INFO - worker kw12 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/mediatype.md from ingest queue
+2025-08-14 10:20:25,998 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/image.md
+2025-08-14 10:20:26,035 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/main.md to ingest queue
+2025-08-14 10:20:26,148 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/tools.md
+2025-08-14 10:20:25,556 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/images/build_docs.py
+2025-08-14 10:20:26,630 - Knowledge - INFO - knowledge worker kw14 start
+2025-08-14 10:20:26,632 - Knowledge - INFO - worker kw15 created with dedicated MongoDB connection (total: 15)
+2025-08-14 10:20:26,748 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/audio.md
+2025-08-14 10:20:26,793 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:26,907 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:27,030 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/mediatype.md
+2025-08-14 10:20:27,192 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/text.md to ingest queue
+2025-08-14 10:20:27,593 - Knowledge - INFO - knowledge worker kw15 start
+2025-08-14 10:20:27,596 - Knowledge - INFO - worker kw16 created with dedicated MongoDB connection (total: 16)
+2025-08-14 10:20:27,750 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/pdf.md
+2025-08-14 10:20:27,841 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/epub.md
+2025-08-14 10:20:28,007 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:28,062 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:28,062 - Knowledge - INFO - worker kw13 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai.md from ingest queue
+2025-08-14 10:20:28,159 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:28,160 - Knowledge - INFO - worker kw14 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/conventions.md from ingest queue
+2025-08-14 10:20:28,160 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:28,982 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:28,160 - Knowledge - INFO - worker kw7 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/stylesheets/extra.css from ingest queue
+2025-08-14 10:20:28,160 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/ipfs.md to ingest queue
+2025-08-14 10:20:28,220 - Knowledge - INFO - knowledge worker kw16 start
+2025-08-14 10:20:28,221 - Knowledge - INFO - worker kw17 created with dedicated MongoDB connection (total: 17)
+2025-08-14 10:20:28,497 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:28,608 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:28,763 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai.md
+2025-08-14 10:20:28,818 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:28,932 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/conventions.md
+2025-08-14 10:20:28,160 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:29,070 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/audio.md
+2025-08-14 10:20:29,213 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/stylesheets/extra.css
+2025-08-14 10:20:29,266 - Knowledge - INFO - worker kw6 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/overrides/partials/integrations/analytics/custom.html from ingest queue
+2025-08-14 10:20:29,266 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/image.md to ingest queue
+2025-08-14 10:20:29,429 - Knowledge - INFO - knowledge worker kw17 start
+2025-08-14 10:20:29,431 - Knowledge - INFO - worker kw18 created with dedicated MongoDB connection (total: 18)
+2025-08-14 10:20:29,498 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai/exiv2.md
+2025-08-14 10:20:29,584 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/video.md
+2025-08-14 10:20:29,755 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/images/build_docs.py
+2025-08-14 10:20:29,922 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:30,210 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/overrides/partials/integrations/analytics/custom.html
+2025-08-14 10:20:30,257 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/tools.md to ingest queue
+2025-08-14 10:20:30,408 - Knowledge - INFO - knowledge worker kw18 start
+2025-08-14 10:20:30,410 - Knowledge - INFO - worker kw19 created with dedicated MongoDB connection (total: 19)
+2025-08-14 10:20:30,777 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/mediatype.md
+2025-08-14 10:20:30,975 - Knowledge - INFO - worker kw15 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/options.md from ingest queue
+2025-08-14 10:20:31,095 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/epub.md to ingest queue
+2025-08-14 10:20:31,153 - Knowledge - INFO - knowledge worker kw19 start
+2025-08-14 10:20:31,157 - Knowledge - INFO - worker kw20 created with dedicated MongoDB connection (total: 20)
+2025-08-14 10:20:31,379 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/options.md
+2025-08-14 10:20:31,448 - Knowledge - INFO - worker kw16 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/changelog.md from ingest queue
+2025-08-14 10:20:31,448 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:31,449 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:31,500 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:31,500 - Knowledge - INFO - worker kw2 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/index.md from ingest queue
+2025-08-14 10:20:31,500 - Knowledge - INFO - worker kw17 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/README.md from ingest queue
+2025-08-14 10:20:31,607 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:31,607 - Knowledge - INFO - worker kw8 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_pdf.py from ingest queue
+2025-08-14 10:20:31,608 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/pdf.md to ingest queue
+2025-08-14 10:20:31,614 - Knowledge - INFO - knowledge worker kw20 start
+2025-08-14 10:20:31,615 - Knowledge - WARNING - High connection count: 21 connections active
+2025-08-14 10:20:31,841 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/changelog.md
+2025-08-14 10:20:31,912 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:31,988 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:32,108 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:32,255 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/index.md
+2025-08-14 10:20:32,343 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/README.md
+2025-08-14 10:20:32,395 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:32,537 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_pdf.py
+2025-08-14 10:20:32,688 - Knowledge - INFO - worker kw4 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_ipfs.py from ingest queue
+2025-08-14 10:20:32,688 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/audio.md to ingest queue
+2025-08-14 10:20:32,988 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai.md
+2025-08-14 10:20:33,104 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/conventions.md
+2025-08-14 10:20:33,206 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/stylesheets/extra.css
+2025-08-14 10:20:33,457 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/overrides/partials/integrations/analytics/custom.html
+2025-08-14 10:20:32,825 - Knowledge - INFO - worker kw21 created with dedicated MongoDB connection (total: 21)
+2025-08-14 10:20:33,676 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_ipfs.py
+2025-08-14 10:20:33,742 - Knowledge - INFO - worker kw19 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_audio.py from ingest queue
+2025-08-14 10:20:33,742 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/video.md to ingest queue
+2025-08-14 10:20:34,178 - Knowledge - INFO - knowledge worker kw21 start
+2025-08-14 10:20:34,181 - Knowledge - WARNING - High connection count: 22 connections active
+2025-08-14 10:20:34,405 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_audio.py
+2025-08-14 10:20:34,468 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/images/build_docs.py to ingest queue
+2025-08-14 10:20:34,619 - Knowledge - INFO - worker kw22 created with dedicated MongoDB connection (total: 22)
+2025-08-14 10:20:34,813 - Knowledge - INFO - worker kw18 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_docx.py from ingest queue
+2025-08-14 10:20:34,813 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:34,814 - Knowledge - INFO - worker kw3 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_epub.py from ingest queue
+2025-08-14 10:20:34,815 - Knowledge - INFO - worker kw9 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_options.py from ingest queue
+2025-08-14 10:20:34,866 - Knowledge - INFO - worker kw20 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_thumbnail.py from ingest queue
+2025-08-14 10:20:34,866 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:34,866 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:34,866 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:34,867 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:34,867 - Knowledge - INFO - worker kw1 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_models.py from ingest queue
+2025-08-14 10:20:34,884 - Knowledge - INFO - knowledge worker kw22 start
+2025-08-14 10:20:34,885 - Knowledge - WARNING - High connection count: 23 connections active
+2025-08-14 10:20:34,995 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_docx.py
+2025-08-14 10:20:35,012 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:35,012 - Knowledge - INFO - worker kw11 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_semantic.py from ingest queue
+2025-08-14 10:20:35,012 - Knowledge - INFO - worker kw21 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mp7.py from ingest queue
+2025-08-14 10:20:35,013 - Knowledge - INFO - worker kw5 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mime.py from ingest queue
+2025-08-14 10:20:35,013 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/mediatype.md to ingest queue
+2025-08-14 10:20:35,056 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:35,168 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_epub.py
+2025-08-14 10:20:35,250 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_options.py
+2025-08-14 10:20:35,351 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_thumbnail.py
+2025-08-14 10:20:35,422 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:35,523 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:35,612 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:37,174 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/README.md
+2025-08-14 10:20:35,883 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_models.py
+2025-08-14 10:20:36,001 - Knowledge - INFO - worker kw23 created with dedicated MongoDB connection (total: 23)
+2025-08-14 10:20:36,135 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:36,245 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_semantic.py
+2025-08-14 10:20:36,342 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mp7.py
+2025-08-14 10:20:36,419 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mime.py
+2025-08-14 10:20:36,528 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai.md to ingest queue
+2025-08-14 10:20:36,554 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/options.md
+2025-08-14 10:20:37,000 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/changelog.md
+2025-08-14 10:20:37,102 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/index.md
+2025-08-14 10:20:35,723 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:37,425 - Knowledge - INFO - knowledge worker kw23 start
+2025-08-14 10:20:37,426 - Knowledge - WARNING - High connection count: 24 connections active
+2025-08-14 10:20:37,535 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_ipfs.py
+2025-08-14 10:20:37,868 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/stylesheets/extra.css to ingest queue
+2025-08-14 10:20:38,265 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_pdf.py
+2025-08-14 10:20:38,480 - Knowledge - INFO - worker kw24 created with dedicated MongoDB connection (total: 24)
+2025-08-14 10:20:38,702 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/overrides/partials/integrations/analytics/custom.html to ingest queue
+2025-08-14 10:20:38,864 - Knowledge - INFO - knowledge worker kw24 start
+2025-08-14 10:20:38,866 - Knowledge - WARNING - High connection count: 25 connections active
+2025-08-14 10:20:38,960 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:38,961 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai/exiv2.md to ingest queue
+2025-08-14 10:20:39,156 - Knowledge - INFO - worker kw25 created with dedicated MongoDB connection (total: 25)
+2025-08-14 10:20:39,273 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:39,352 - Knowledge - INFO - worker kw22 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_cli.py from ingest queue
+2025-08-14 10:20:39,355 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:39,355 - Knowledge - INFO - worker kw12 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_iscc_sdk.py from ingest queue
+2025-08-14 10:20:39,356 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/conventions.md to ingest queue
+2025-08-14 10:20:39,461 - Knowledge - INFO - knowledge worker kw25 start
+2025-08-14 10:20:39,569 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_audio.py
+2025-08-14 10:20:39,701 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_cli.py
+2025-08-14 10:20:39,783 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:39,892 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_iscc_sdk.py
+2025-08-14 10:20:39,970 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:39,971 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:40,028 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:40,028 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:40,028 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:40,028 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:40,028 - Knowledge - INFO - worker kw13 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_image.py from ingest queue
+2025-08-14 10:20:40,084 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/options.md to ingest queue
+2025-08-14 10:20:40,289 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_docx.py
+2025-08-14 10:20:40,465 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:40,562 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:40,656 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:40,749 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:40,850 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:40,932 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:41,042 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_image.py
+2025-08-14 10:20:41,116 - Knowledge - INFO - worker kw23 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_video.py from ingest queue
+2025-08-14 10:20:41,169 - Knowledge - INFO - worker kw7 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/conftest.py from ingest queue
+2025-08-14 10:20:41,217 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_pdf.py to ingest queue
+2025-08-14 10:20:41,304 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_options.py
+2025-08-14 10:20:41,376 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_thumbnail.py
+2025-08-14 10:20:41,455 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_models.py
+2025-08-14 10:20:41,528 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_semantic.py
+2025-08-14 10:20:41,605 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mp7.py
+2025-08-14 10:20:41,675 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mime.py
+2025-08-14 10:20:41,920 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_video.py
+2025-08-14 10:20:42,006 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/conftest.py
+2025-08-14 10:20:42,100 - Knowledge - INFO - worker kw10 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_main.py from ingest queue
+2025-08-14 10:20:42,100 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:42,101 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/README.md to ingest queue
+2025-08-14 10:20:42,980 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_main.py
+2025-08-14 10:20:43,035 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:43,163 - Knowledge - INFO - worker kw25 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_text.py from ingest queue
+2025-08-14 10:20:43,265 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_epub.py
+2025-08-14 10:20:43,271 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:43,581 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:43,271 - Knowledge - INFO - worker kw15 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_a_tools.py from ingest queue
+2025-08-14 10:20:43,271 - Knowledge - INFO - worker kw6 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_utils.py from ingest queue
+2025-08-14 10:20:43,271 - Knowledge - INFO - worker kw24 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_metadata.py from ingest queue
+2025-08-14 10:20:43,272 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:43,272 - Knowledge - INFO - worker kw8 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/tools.py from ingest queue
+2025-08-14 10:20:43,272 - Knowledge - INFO - worker kw14 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/utils.py from ingest queue
+2025-08-14 10:20:43,330 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_thumbnail.py to ingest queue
+2025-08-14 10:20:43,381 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_text.py
+2025-08-14 10:20:43,271 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:43,674 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_cli.py
+2025-08-14 10:20:43,797 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_a_tools.py
+2025-08-14 10:20:43,869 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_utils.py
+2025-08-14 10:20:43,931 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_metadata.py
+2025-08-14 10:20:43,992 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:44,114 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/tools.py
+2025-08-14 10:20:44,198 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/utils.py
+2025-08-14 10:20:44,350 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:44,350 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:44,350 - Knowledge - INFO - worker kw17 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/metadata.py from ingest queue
+2025-08-14 10:20:44,350 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/changelog.md to ingest queue
+2025-08-14 10:20:44,436 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:44,940 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_image.py
+2025-08-14 10:20:45,215 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:45,732 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_video.py
+2025-08-14 10:20:45,407 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/metadata.py
+2025-08-14 10:20:45,460 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/index.md to ingest queue
+2025-08-14 10:20:45,547 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_iscc_sdk.py
+2025-08-14 10:20:45,294 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:46,072 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_audio.py to ingest queue
+2025-08-14 10:20:46,279 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/conftest.py
+2025-08-14 10:20:46,365 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_ipfs.py to ingest queue
+2025-08-14 10:20:46,808 - Knowledge - INFO - worker kw20 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/docx_.py from ingest queue
+2025-08-14 10:20:46,809 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mp7.py to ingest queue
+2025-08-14 10:20:46,933 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/docx_.py
+2025-08-14 10:20:46,955 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:46,956 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:47,004 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:47,005 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:47,005 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:47,005 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:47,585 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:47,005 - Knowledge - INFO - worker kw16 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/main.py from ingest queue
+2025-08-14 10:20:47,057 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:47,057 - Knowledge - INFO - worker kw2 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/text.py from ingest queue
+2025-08-14 10:20:47,095 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:48,028 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_main.py
+2025-08-14 10:20:47,156 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_docx.py to ingest queue
+2025-08-14 10:20:47,178 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:47,258 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:47,382 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:47,502 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:47,005 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:47,663 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/tools.py
+2025-08-14 10:20:47,781 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/main.py
+2025-08-14 10:20:47,855 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:47,959 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/text.py
+2025-08-14 10:20:47,156 - Knowledge - INFO - worker kw4 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/image.py from ingest queue
+2025-08-14 10:20:48,239 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_models.py to ingest queue
+2025-08-14 10:20:48,343 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_text.py
+2025-08-14 10:20:48,435 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_a_tools.py
+2025-08-14 10:20:48,522 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_utils.py
+2025-08-14 10:20:48,614 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_metadata.py
+2025-08-14 10:20:48,723 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:49,070 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/metadata.py
+2025-08-14 10:20:49,310 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/image.py
+2025-08-14 10:20:49,354 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_semantic.py to ingest queue
+2025-08-14 10:20:49,770 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/utils.py
+2025-08-14 10:20:50,098 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_epub.py to ingest queue
+2025-08-14 10:20:50,266 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mime.py to ingest queue
+2025-08-14 10:20:50,343 - Knowledge - INFO - worker kw21 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/container.py from ingest queue
+2025-08-14 10:20:50,343 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_cli.py to ingest queue
+2025-08-14 10:20:50,455 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/container.py
+2025-08-14 10:20:50,530 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:50,530 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_image.py to ingest queue
+2025-08-14 10:20:50,705 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:50,813 - Knowledge - INFO - worker kw19 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/video.py from ingest queue
+2025-08-14 10:20:50,813 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_options.py to ingest queue
+2025-08-14 10:20:50,888 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/docx_.py
+2025-08-14 10:20:51,000 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/video.py
+2025-08-14 10:20:51,049 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/conftest.py to ingest queue
+2025-08-14 10:20:51,356 - Knowledge - INFO - worker kw18 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/install.py from ingest queue
+2025-08-14 10:20:51,410 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:51,410 - Knowledge - INFO - worker kw1 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/pdf.py from ingest queue
+2025-08-14 10:20:51,537 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/install.py
+2025-08-14 10:20:51,575 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:51,612 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:51,612 - Knowledge - INFO - worker kw11 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/audio.py from ingest queue
+2025-08-14 10:20:51,705 - Knowledge - INFO - worker kw5 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/exceptions.py from ingest queue
+2025-08-14 10:20:51,706 - Knowledge - INFO - worker kw22 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mediatype.py from ingest queue
+2025-08-14 10:20:51,706 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_iscc_sdk.py to ingest queue
+2025-08-14 10:20:51,717 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/pdf.py
+2025-08-14 10:20:51,842 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/text.py
+2025-08-14 10:20:51,960 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:52,064 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/audio.py
+2025-08-14 10:20:52,155 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/exceptions.py
+2025-08-14 10:20:52,242 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mediatype.py
+2025-08-14 10:20:52,292 - Knowledge - INFO - worker kw9 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/ipfs.py from ingest queue
+2025-08-14 10:20:52,352 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/docx_.py to ingest queue
+2025-08-14 10:20:52,579 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/image.py
+2025-08-14 10:20:52,992 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/ipfs.py
+2025-08-14 10:20:53,054 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:53,055 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_main.py to ingest queue
+2025-08-14 10:20:53,349 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:53,425 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/tools.py to ingest queue
+2025-08-14 10:20:53,498 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/main.py
+2025-08-14 10:20:53,639 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_text.py to ingest queue
+2025-08-14 10:20:53,752 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_utils.py to ingest queue
+2025-08-14 10:20:53,864 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_metadata.py to ingest queue
+2025-08-14 10:20:53,948 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/metadata.py to ingest queue
+2025-08-14 10:20:54,023 - Knowledge - INFO - worker kw3 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/monkeys.py from ingest queue
+2025-08-14 10:20:54,024 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/utils.py to ingest queue
+2025-08-14 10:20:54,175 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/monkeys.py
+2025-08-14 10:20:54,223 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_video.py to ingest queue
+2025-08-14 10:20:54,393 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:54,394 - Knowledge - INFO - worker kw12 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/epub.py from ingest queue
+2025-08-14 10:20:54,395 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:54,395 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:54,450 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:54,450 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:54,450 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:54,450 - Knowledge - INFO - worker kw20 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/options.py from ingest queue
+2025-08-14 10:20:54,450 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:54,451 - Knowledge - INFO - worker kw10 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mp7.py from ingest queue
+2025-08-14 10:20:54,451 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_a_tools.py to ingest queue
+2025-08-14 10:20:54,506 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:54,624 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/epub.py
+2025-08-14 10:20:54,702 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:55,635 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/video.py
+2025-08-14 10:20:54,880 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:54,947 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:55,032 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:55,128 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/options.py
+2025-08-14 10:20:55,205 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:55,324 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mp7.py
+2025-08-14 10:20:55,438 - Knowledge - INFO - worker kw25 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/compat.py from ingest queue
+2025-08-14 10:20:55,438 - Knowledge - INFO - worker kw6 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/thumbnail.py from ingest queue
+2025-08-14 10:20:55,438 - Knowledge - INFO - worker kw17 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/__init__.py from ingest queue
+2025-08-14 10:20:55,439 - Knowledge - INFO - worker kw13 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/cli.py from ingest queue
+2025-08-14 10:20:55,439 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:55,439 - Knowledge - INFO - worker kw23 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/CHANGELOG.md from ingest queue
+2025-08-14 10:20:55,439 - Knowledge - INFO - worker kw7 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/checkmeta.py from ingest queue
+2025-08-14 10:20:55,439 - Knowledge - INFO - worker kw8 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/lf.py from ingest queue
+2025-08-14 10:20:55,439 - Knowledge - INFO - worker kw15 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/build_docs.py from ingest queue
+2025-08-14 10:20:55,439 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/main.py to ingest queue
+2025-08-14 10:20:55,463 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/install.py
+2025-08-14 10:20:54,812 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:55,827 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/audio.py
+2025-08-14 10:20:55,903 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/exceptions.py
+2025-08-14 10:20:55,984 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mediatype.py
+2025-08-14 10:20:56,211 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/ipfs.py
+2025-08-14 10:20:56,415 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/compat.py
+2025-08-14 10:20:56,510 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/thumbnail.py
+2025-08-14 10:20:56,597 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/__init__.py
+2025-08-14 10:20:56,686 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/cli.py
+2025-08-14 10:20:56,749 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:56,887 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/CHANGELOG.md
+2025-08-14 10:20:56,973 - Knowledge - INFO - Thread kw7 - File checkmeta.py - Remaining files in queue: 48
+2025-08-14 10:20:57,055 - Knowledge - INFO - Thread kw8 - File lf.py - Remaining files in queue: 48
+2025-08-14 10:20:57,127 - Knowledge - INFO - Thread kw15 - File build_docs.py - Remaining files in queue: 48
+2025-08-14 10:20:57,239 - Knowledge - INFO - worker kw14 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/pyproject.toml from ingest queue
+2025-08-14 10:20:57,239 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/text.py to ingest queue
+2025-08-14 10:20:57,457 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/pdf.py
+2025-08-14 10:20:58,338 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/monkeys.py
+2025-08-14 10:20:58,485 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/checkmeta.py
+2025-08-14 10:20:58,569 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/lf.py
+2025-08-14 10:20:58,677 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/build_docs.py
+2025-08-14 10:20:58,794 - Knowledge - INFO - Thread kw14 - File pyproject.toml - Remaining files in queue: 48
+2025-08-14 10:20:58,936 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:58,936 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:58,984 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:58,984 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:58,984 - Knowledge - INFO - worker kw24 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/mkdocs.yml from ingest queue
+2025-08-14 10:20:58,984 - Knowledge - INFO - worker kw16 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/metadata.md from ingest queue
+2025-08-14 10:20:59,142 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:59,142 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:59,142 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:59,142 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:59,142 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:20:59,142 - Knowledge - INFO - worker kw2 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/main.md from ingest queue
+2025-08-14 10:20:59,143 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/image.py to ingest queue
+2025-08-14 10:20:59,495 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/pyproject.toml
+2025-08-14 10:20:59,582 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:59,649 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:59,734 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:59,823 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:20:59,912 - Knowledge - INFO - Thread kw24 - File mkdocs.yml - Remaining files in queue: 46
+2025-08-14 10:20:59,985 - Knowledge - INFO - Thread kw16 - File metadata.md - Remaining files in queue: 46
+2025-08-14 10:21:00,096 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:00,215 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:00,289 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:00,366 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:00,455 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:00,533 - Knowledge - INFO - Thread kw2 - File main.md - Remaining files in queue: 46
+2025-08-14 10:21:00,774 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/container.py
+2025-08-14 10:21:00,804 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/audio.py to ingest queue
+2025-08-14 10:21:00,863 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/epub.py
+2025-08-14 10:21:00,944 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/options.py
+2025-08-14 10:21:01,060 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mp7.py
+2025-08-14 10:21:01,154 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/mkdocs.yml
+2025-08-14 10:21:01,259 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/metadata.md
+2025-08-14 10:21:01,339 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/compat.py
+2025-08-14 10:21:01,414 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/thumbnail.py
+2025-08-14 10:21:01,483 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/__init__.py
+2025-08-14 10:21:01,566 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/cli.py
+2025-08-14 10:21:01,680 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/CHANGELOG.md
+2025-08-14 10:21:01,759 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/main.md
+2025-08-14 10:21:02,098 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mediatype.py to ingest queue
+2025-08-14 10:21:02,481 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/mkdocs.yml
+2025-08-14 10:21:02,575 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/metadata.md
+2025-08-14 10:21:03,133 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/main.md
+2025-08-14 10:21:03,305 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/ipfs.py to ingest queue
+2025-08-14 10:21:03,339 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/mkdocs.yml
+2025-08-14 10:21:03,448 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/metadata.md
+2025-08-14 10:21:03,524 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/main.md
+2025-08-14 10:21:03,628 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/video.py to ingest queue
+2025-08-14 10:21:03,773 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/mkdocs.yml
+2025-08-14 10:21:03,918 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/metadata.md
+2025-08-14 10:21:04,018 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/main.md
+2025-08-14 10:21:04,101 - Knowledge - INFO - worker kw4 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/text.md from ingest queue
+2025-08-14 10:21:04,102 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/install.py to ingest queue
+2025-08-14 10:21:04,294 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/pyproject.toml
+2025-08-14 10:21:04,486 - Knowledge - INFO - Thread kw4 - File text.md - Remaining files in queue: 50
+2025-08-14 10:21:04,569 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/pdf.py to ingest queue
+2025-08-14 10:21:04,652 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/pyproject.toml
+2025-08-14 10:21:04,767 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/text.md
+2025-08-14 10:21:04,950 - Knowledge - INFO - worker kw11 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/ipfs.md from ingest queue
+2025-08-14 10:21:05,102 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/text.md
+2025-08-14 10:21:05,184 - Knowledge - INFO - Thread kw11 - File ipfs.md - Remaining files in queue: 51
+2025-08-14 10:21:05,326 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/text.md
+2025-08-14 10:21:05,444 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/ipfs.md
+2025-08-14 10:21:05,482 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/lf.py
+2025-08-14 10:21:05,603 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/text.md
+2025-08-14 10:21:05,610 - Knowledge - INFO - worker kw22 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/image.md from ingest queue
+2025-08-14 10:21:05,945 - Knowledge - INFO - Thread kw22 - File image.md - Remaining files in queue: 50
+2025-08-14 10:21:05,687 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/ipfs.md
+2025-08-14 10:21:05,769 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/lf.py
+2025-08-14 10:21:05,615 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/monkeys.py to ingest queue
+2025-08-14 10:21:06,025 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/image.md
+2025-08-14 10:21:06,101 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/ipfs.md
+2025-08-14 10:21:06,339 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/exceptions.py to ingest queue
+2025-08-14 10:21:06,412 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/image.md
+2025-08-14 10:21:06,495 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/ipfs.md
+2025-08-14 10:21:06,600 - Knowledge - INFO - worker kw19 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/tools.md from ingest queue
+2025-08-14 10:21:06,602 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:06,602 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:06,603 - Knowledge - INFO - worker kw18 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/epub.md from ingest queue
+2025-08-14 10:21:06,603 - Knowledge - INFO - worker kw1 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/pdf.md from ingest queue
+2025-08-14 10:21:06,663 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/options.py to ingest queue
+2025-08-14 10:21:06,681 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/image.md
+2025-08-14 10:21:06,745 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/build_docs.py
+2025-08-14 10:21:06,856 - Knowledge - INFO - Thread kw19 - File tools.md - Remaining files in queue: 49
+2025-08-14 10:21:06,930 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:07,048 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:07,113 - Knowledge - INFO - Thread kw18 - File epub.md - Remaining files in queue: 49
+2025-08-14 10:21:07,213 - Knowledge - INFO - Thread kw1 - File pdf.md - Remaining files in queue: 49
+2025-08-14 10:21:07,278 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mp7.py to ingest queue
+2025-08-14 10:21:07,357 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/image.md
+2025-08-14 10:21:07,471 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/checkmeta.py
+2025-08-14 10:21:07,488 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/build_docs.py
+2025-08-14 10:21:07,554 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/tools.md
+2025-08-14 10:21:07,634 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/mkdocs.yml
+2025-08-14 10:21:07,780 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/main.md
+2025-08-14 10:21:07,859 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/epub.md
+2025-08-14 10:21:07,963 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/pdf.md
+2025-08-14 10:21:08,060 - Knowledge - INFO - worker kw10 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/audio.md from ingest queue
+2025-08-14 10:21:08,061 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/thumbnail.py to ingest queue
+2025-08-14 10:21:08,234 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/checkmeta.py
+2025-08-14 10:21:08,407 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/tools.md
+2025-08-14 10:21:08,693 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/epub.md
+2025-08-14 10:21:08,773 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/pdf.md
+2025-08-14 10:21:08,861 - Knowledge - INFO - Thread kw10 - File audio.md - Remaining files in queue: 50
+2025-08-14 10:21:08,976 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/cli.py to ingest queue
+2025-08-14 10:21:09,179 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/tools.md
+2025-08-14 10:21:09,254 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/epub.md
+2025-08-14 10:21:09,360 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/pdf.md
+2025-08-14 10:21:09,454 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/audio.md
+2025-08-14 10:21:09,539 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/CHANGELOG.md to ingest queue
+2025-08-14 10:21:09,613 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/tools.md
+2025-08-14 10:21:09,693 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/epub.md
+2025-08-14 10:21:09,771 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/pdf.md
+2025-08-14 10:21:09,885 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/audio.md
+2025-08-14 10:21:09,974 - Knowledge - INFO - worker kw9 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/video.md from ingest queue
+2025-08-14 10:21:09,974 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:09,975 - Knowledge - INFO - worker kw3 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/images/build_docs.py from ingest queue
+2025-08-14 10:21:09,975 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:09,975 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:09,975 - Knowledge - INFO - worker kw5 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/mediatype.md from ingest queue
+2025-08-14 10:21:09,975 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/epub.py to ingest queue
+2025-08-14 10:21:10,317 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/audio.md
+2025-08-14 10:21:10,402 - Knowledge - INFO - Thread kw9 - File video.md - Remaining files in queue: 50
+2025-08-14 10:21:10,490 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:10,599 - Knowledge - INFO - Thread kw3 - File build_docs.py - Remaining files in queue: 50
+2025-08-14 10:21:10,703 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:10,811 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:10,933 - Knowledge - INFO - Thread kw5 - File mediatype.md - Remaining files in queue: 50
+2025-08-14 10:21:11,015 - Knowledge - INFO - worker kw20 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai.md from ingest queue
+2025-08-14 10:21:11,016 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/__init__.py to ingest queue
+2025-08-14 10:21:11,127 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/audio.md
+2025-08-14 10:21:11,225 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/video.md
+2025-08-14 10:21:11,329 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/text.md
+2025-08-14 10:21:11,408 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/images/build_docs.py
+2025-08-14 10:21:11,529 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/metadata.md
+2025-08-14 10:21:11,642 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/pyproject.toml
+2025-08-14 10:21:11,721 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/mediatype.md
+2025-08-14 10:21:11,789 - Knowledge - INFO - Thread kw20 - File ai.md - Remaining files in queue: 50
+2025-08-14 10:21:11,867 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:11,867 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:12,050 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/video.md
+2025-08-14 10:21:12,070 - Knowledge - INFO - worker kw6 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/stylesheets/extra.css from ingest queue
+2025-08-14 10:21:12,890 - Knowledge - INFO - Thread kw6 - File extra.css - Remaining files in queue: 49
+2025-08-14 10:21:12,071 - Knowledge - INFO - worker kw23 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/overrides/partials/integrations/analytics/custom.html from ingest queue
+2025-08-14 10:21:13,120 - Knowledge - INFO - Thread kw23 - File custom.html - Remaining files in queue: 49
+2025-08-14 10:21:12,071 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:12,073 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:12,074 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:12,074 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:12,074 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/compat.py to ingest queue
+2025-08-14 10:21:12,505 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/mediatype.md
+2025-08-14 10:21:12,602 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai.md
+2025-08-14 10:21:12,674 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:12,743 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:12,821 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/video.md
+2025-08-14 10:21:12,071 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:13,001 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/stylesheets/extra.css
+2025-08-14 10:21:12,071 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:13,239 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/overrides/partials/integrations/analytics/custom.html
+2025-08-14 10:21:13,351 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:13,473 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:13,566 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:13,656 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:13,780 - Knowledge - INFO - worker kw12 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai/exiv2.md from ingest queue
+2025-08-14 10:21:13,781 - Knowledge - INFO - worker kw17 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/conventions.md from ingest queue
+2025-08-14 10:21:13,782 - Knowledge - INFO - worker kw24 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/options.md from ingest queue
+2025-08-14 10:21:13,783 - Knowledge - INFO - worker kw2 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_pdf.py from ingest queue
+2025-08-14 10:21:13,874 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/mediatype.md
+2025-08-14 10:21:13,950 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai.md
+2025-08-14 10:21:13,973 - Knowledge - INFO - worker kw25 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/README.md from ingest queue
+2025-08-14 10:21:13,973 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:13,973 - Knowledge - INFO - adding /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/container.py to ingest queue
+2025-08-14 10:21:14,020 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/image.md
+2025-08-14 10:21:14,108 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/build_docs.py
+2025-08-14 10:21:14,195 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/video.md
+2025-08-14 10:21:14,315 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:14,527 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:14,642 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/overrides/partials/integrations/analytics/custom.html
+2025-08-14 10:21:14,743 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/ipfs.md
+2025-08-14 10:21:14,831 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/tools.md
+2025-08-14 10:21:14,922 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/epub.md
+2025-08-14 10:21:15,029 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/other/pdf.md
+2025-08-14 10:21:15,145 - Knowledge - INFO - Thread kw12 - File exiv2.md - Remaining files in queue: 45
+2025-08-14 10:21:15,239 - Knowledge - INFO - Thread kw17 - File conventions.md - Remaining files in queue: 45
+2025-08-14 10:21:15,321 - Knowledge - INFO - Thread kw24 - File options.md - Remaining files in queue: 45
+2025-08-14 10:21:15,399 - Knowledge - INFO - Thread kw2 - File test_pdf.py - Remaining files in queue: 45
+2025-08-14 10:21:15,483 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/mediatype.md
+2025-08-14 10:21:15,593 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai.md
+2025-08-14 10:21:15,699 - Knowledge - INFO - Thread kw25 - File README.md - Remaining files in queue: 45
+2025-08-14 10:21:15,768 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/images/build_docs.py
+2025-08-14 10:21:15,782 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:16,021 - Knowledge - INFO - worker kw4 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_thumbnail.py from ingest queue
+2025-08-14 10:21:16,022 - Knowledge - INFO - worker kw14 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/changelog.md from ingest queue
+2025-08-14 10:21:16,022 - Knowledge - INFO - worker kw21 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/index.md from ingest queue
+2025-08-14 10:21:16,022 - Knowledge - INFO - worker kw16 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_audio.py from ingest queue
+2025-08-14 10:21:16,103 - Knowledge - INFO - worker kw13 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_ipfs.py from ingest queue
+2025-08-14 10:21:18,016 - Knowledge - INFO - Thread kw13 - File test_ipfs.py - Remaining files in queue: 41
+2025-08-14 10:21:16,266 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/checkmeta.py
+2025-08-14 10:21:16,348 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/devtools/lf.py
+2025-08-14 10:21:16,419 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/overrides/partials/integrations/analytics/custom.html
+2025-08-14 10:21:16,636 - Knowledge - INFO - persist search terms embedding for devtools/build_docs.py
+2025-08-14 10:21:16,865 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai/exiv2.md
+2025-08-14 10:21:16,979 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/conventions.md
+2025-08-14 10:21:17,068 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/options.md
+2025-08-14 10:21:17,160 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_pdf.py
+2025-08-14 10:21:17,328 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai.md
+2025-08-14 10:21:17,388 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/README.md
+2025-08-14 10:21:17,506 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/images/build_docs.py
+2025-08-14 10:21:17,570 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/audio.md
+2025-08-14 10:21:17,643 - Knowledge - INFO - Thread kw4 - File test_thumbnail.py - Remaining files in queue: 41
+2025-08-14 10:21:17,728 - Knowledge - INFO - Thread kw14 - File changelog.md - Remaining files in queue: 41
+2025-08-14 10:21:17,794 - Knowledge - INFO - Thread kw21 - File index.md - Remaining files in queue: 41
+2025-08-14 10:21:17,897 - Knowledge - INFO - Thread kw16 - File test_audio.py - Remaining files in queue: 41
+2025-08-14 10:21:16,247 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/stylesheets/extra.css
+2025-08-14 10:21:18,088 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_ipfs.py
+2025-08-14 10:21:18,369 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/overrides/partials/integrations/analytics/custom.html
+2025-08-14 10:21:18,445 - Knowledge - INFO - worker kw22 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mp7.py from ingest queue
+2025-08-14 10:21:18,445 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:18,562 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai/exiv2.md
+2025-08-14 10:21:18,649 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/conventions.md
+2025-08-14 10:21:18,712 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:18,746 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/options.md
+2025-08-14 10:21:18,998 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/README.md
+2025-08-14 10:21:19,042 - Knowledge - INFO - persist search terms embedding for devtools/checkmeta.py
+2025-08-14 10:21:19,330 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_thumbnail.py
+2025-08-14 10:21:19,446 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/changelog.md
+2025-08-14 10:21:19,555 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/index.md
+2025-08-14 10:21:19,630 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_audio.py
+2025-08-14 10:21:19,704 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/stylesheets/extra.css
+2025-08-14 10:21:19,932 - Knowledge - INFO - Thread kw22 - File test_mp7.py - Remaining files in queue: 40
+2025-08-14 10:21:20,042 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:20,113 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai/exiv2.md
+2025-08-14 10:21:20,224 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/conventions.md
+2025-08-14 10:21:20,348 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:20,434 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/options.md
+2025-08-14 10:21:20,511 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/README.md
+2025-08-14 10:21:20,720 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_thumbnail.py
+2025-08-14 10:21:20,791 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/changelog.md
+2025-08-14 10:21:20,864 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/index.md
+2025-08-14 10:21:21,015 - Knowledge - INFO - persist search terms embedding for devtools/lf.py
+2025-08-14 10:21:21,134 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mp7.py
+2025-08-14 10:21:21,215 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/video.md
+2025-08-14 10:21:21,338 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai/exiv2.md
+2025-08-14 10:21:21,423 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/conventions.md
+2025-08-14 10:21:21,529 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/mediatype.md
+2025-08-14 10:21:21,652 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/options.md
+2025-08-14 10:21:21,729 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/README.md
+2025-08-14 10:21:21,789 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_ipfs.py
+2025-08-14 10:21:21,821 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_thumbnail.py
+2025-08-14 10:21:21,930 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/changelog.md
+2025-08-14 10:21:22,016 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/index.md
+2025-08-14 10:21:22,226 - Knowledge - INFO - worker kw15 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_docx.py from ingest queue
+2025-08-14 10:21:22,227 - Knowledge - INFO - worker kw19 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_models.py from ingest queue
+2025-08-14 10:21:22,227 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:22,227 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:22,348 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:22,348 - Knowledge - INFO - worker kw7 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_semantic.py from ingest queue
+2025-08-14 10:21:22,348 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:22,348 - Knowledge - INFO - worker kw18 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_epub.py from ingest queue
+2025-08-14 10:21:22,349 - Knowledge - INFO - worker kw1 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mime.py from ingest queue
+2025-08-14 10:21:22,453 - Knowledge - INFO - worker kw10 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_cli.py from ingest queue
+2025-08-14 10:21:22,454 - Knowledge - INFO - worker kw8 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_image.py from ingest queue
+2025-08-14 10:21:22,456 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:22,456 - Knowledge - INFO - worker kw11 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_options.py from ingest queue
+2025-08-14 10:21:22,456 - Knowledge - INFO - worker kw9 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/conftest.py from ingest queue
+2025-08-14 10:21:24,433 - Knowledge - INFO - Thread kw9 - File conftest.py - Remaining files in queue: 30
+2025-08-14 10:21:22,723 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:22,724 - Knowledge - INFO - worker kw5 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_iscc_sdk.py from ingest queue
+2025-08-14 10:21:22,770 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:22,871 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_ipfs.py
+2025-08-14 10:21:22,950 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_thumbnail.py
+2025-08-14 10:21:23,010 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/changelog.md
+2025-08-14 10:21:23,102 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/index.md
+2025-08-14 10:21:23,198 - Knowledge - INFO - Thread kw15 - File test_docx.py - Remaining files in queue: 30
+2025-08-14 10:21:23,274 - Knowledge - INFO - Thread kw19 - File test_models.py - Remaining files in queue: 30
+2025-08-14 10:21:23,352 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:23,441 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:23,558 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:23,651 - Knowledge - INFO - Thread kw7 - File test_semantic.py - Remaining files in queue: 30
+2025-08-14 10:21:23,771 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:23,839 - Knowledge - INFO - Thread kw18 - File test_epub.py - Remaining files in queue: 30
+2025-08-14 10:21:23,948 - Knowledge - INFO - Thread kw1 - File test_mime.py - Remaining files in queue: 30
+2025-08-14 10:21:24,075 - Knowledge - INFO - Thread kw10 - File test_cli.py - Remaining files in queue: 30
+2025-08-14 10:21:24,167 - Knowledge - INFO - Thread kw8 - File test_image.py - Remaining files in queue: 30
+2025-08-14 10:21:24,241 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:24,348 - Knowledge - INFO - Thread kw11 - File test_options.py - Remaining files in queue: 30
+2025-08-14 10:21:22,456 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:24,515 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/conftest.py
+2025-08-14 10:21:24,610 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:24,702 - Knowledge - INFO - Thread kw5 - File test_iscc_sdk.py - Remaining files in queue: 30
+2025-08-14 10:21:24,782 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:24,901 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:24,971 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:25,053 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:25,159 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:27,221 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:27,301 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/index.md
+2025-08-14 10:21:25,364 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_models.py
+2025-08-14 10:21:25,454 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai.md
+2025-08-14 10:21:25,542 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/images/build_docs.py
+2025-08-14 10:21:25,656 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/overrides/partials/integrations/analytics/custom.html
+2025-08-14 10:21:25,736 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_semantic.py
+2025-08-14 10:21:25,819 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/stylesheets/extra.css
+2025-08-14 10:21:25,925 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_epub.py
+2025-08-14 10:21:26,001 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mime.py
+2025-08-14 10:21:26,075 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_cli.py
+2025-08-14 10:21:26,146 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_image.py
+2025-08-14 10:21:26,239 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/ai/exiv2.md
+2025-08-14 10:21:26,354 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_options.py
+2025-08-14 10:21:26,434 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:26,664 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/options.md
+2025-08-14 10:21:26,737 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_iscc_sdk.py
+2025-08-14 10:21:26,808 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/README.md
+2025-08-14 10:21:26,954 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:27,067 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:27,145 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:29,307 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/changelog.md
+2025-08-14 10:21:25,262 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_docx.py
+2025-08-14 10:21:27,502 - Knowledge - INFO - worker kw21 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/docx_.py from ingest queue
+2025-08-14 10:21:27,647 - Knowledge - INFO - worker kw20 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_main.py from ingest queue
+2025-08-14 10:21:28,304 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mp7.py
+2025-08-14 10:21:28,520 - Knowledge - INFO - persist search terms embedding for docs/images/build_docs.py
+2025-08-14 10:21:28,608 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/conftest.py
+2025-08-14 10:21:28,702 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/docs/conventions.md
+2025-08-14 10:21:28,931 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_iscc_sdk.py
+2025-08-14 10:21:29,131 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_ipfs.py
+2025-08-14 10:21:29,211 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_thumbnail.py
+2025-08-14 10:21:25,243 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_pdf.py
+2025-08-14 10:21:29,563 - Knowledge - INFO - Thread kw21 - File docx_.py - Remaining files in queue: 28
+2025-08-14 10:21:29,636 - Knowledge - INFO - Thread kw20 - File test_main.py - Remaining files in queue: 28
+2025-08-14 10:21:29,759 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mp7.py
+2025-08-14 10:21:29,866 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_audio.py
+2025-08-14 10:21:29,927 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/conftest.py
+2025-08-14 10:21:30,123 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_iscc_sdk.py
+2025-08-14 10:21:30,401 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_pdf.py
+2025-08-14 10:21:30,405 - Knowledge - INFO - worker kw3 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/tools.py from ingest queue
+2025-08-14 10:21:30,405 - Knowledge - INFO - worker kw23 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_text.py from ingest queue
+2025-08-14 10:21:30,405 - Knowledge - INFO - worker kw6 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_utils.py from ingest queue
+2025-08-14 10:21:30,474 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/docx_.py
+2025-08-14 10:21:30,487 - Knowledge - INFO - worker kw25 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_metadata.py from ingest queue
+2025-08-14 10:21:30,585 - Knowledge - INFO - worker kw12 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/metadata.py from ingest queue
+2025-08-14 10:21:30,585 - Knowledge - INFO - worker kw24 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/utils.py from ingest queue
+2025-08-14 10:21:30,586 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_main.py
+2025-08-14 10:21:30,587 - Knowledge - INFO - worker kw13 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_video.py from ingest queue
+2025-08-14 10:21:30,587 - Knowledge - INFO - worker kw4 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_a_tools.py from ingest queue
+2025-08-14 10:21:30,680 - Knowledge - INFO - worker kw14 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/main.py from ingest queue
+2025-08-14 10:21:30,680 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:30,680 - Knowledge - INFO - worker kw17 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/text.py from ingest queue
+2025-08-14 10:21:30,740 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_audio.py
+2025-08-14 10:21:30,797 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:30,900 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_iscc_sdk.py
+2025-08-14 10:21:30,988 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:31,080 - Knowledge - INFO - Thread kw3 - File tools.py - Remaining files in queue: 18
+2025-08-14 10:21:31,186 - Knowledge - INFO - Thread kw23 - File test_text.py - Remaining files in queue: 18
+2025-08-14 10:21:31,314 - Knowledge - INFO - Thread kw6 - File test_utils.py - Remaining files in queue: 18
+2025-08-14 10:21:31,503 - Knowledge - INFO - Thread kw25 - File test_metadata.py - Remaining files in queue: 18
+2025-08-14 10:21:31,591 - Knowledge - INFO - Thread kw12 - File metadata.py - Remaining files in queue: 18
+2025-08-14 10:21:31,671 - Knowledge - INFO - Thread kw24 - File utils.py - Remaining files in queue: 18
+2025-08-14 10:21:31,833 - Knowledge - INFO - Thread kw13 - File test_video.py - Remaining files in queue: 18
+2025-08-14 10:21:31,914 - Knowledge - INFO - Thread kw4 - File test_a_tools.py - Remaining files in queue: 18
+2025-08-14 10:21:31,990 - Knowledge - INFO - Thread kw14 - File main.py - Remaining files in queue: 18
+2025-08-14 10:21:32,071 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:32,138 - Knowledge - INFO - Thread kw17 - File text.py - Remaining files in queue: 18
+2025-08-14 10:21:32,253 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:32,338 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:32,436 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:32,521 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:32,637 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/tools.py
+2025-08-14 10:21:32,716 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_text.py
+2025-08-14 10:21:32,796 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_utils.py
+2025-08-14 10:21:32,873 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_metadata.py
+2025-08-14 10:21:33,013 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/metadata.py
+2025-08-14 10:21:33,124 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/utils.py
+2025-08-14 10:21:33,247 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_video.py
+2025-08-14 10:21:33,353 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_a_tools.py
+2025-08-14 10:21:33,473 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/main.py
+2025-08-14 10:21:33,553 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mp7.py
+2025-08-14 10:21:33,676 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/text.py
+2025-08-14 10:21:33,761 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:33,859 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/conftest.py
+2025-08-14 10:21:33,937 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:34,014 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_pdf.py
+2025-08-14 10:21:35,146 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_audio.py
+2025-08-14 10:21:35,398 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_iscc_sdk.py
+2025-08-14 10:21:35,544 - Knowledge - INFO - persist search terms embedding for tests/test_mp7.py
+2025-08-14 10:21:35,764 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_models.py
+2025-08-14 10:21:35,933 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_models.py
+2025-08-14 10:21:36,747 - Knowledge - INFO - persist search terms embedding for tests/test_pdf.py
+2025-08-14 10:21:37,405 - Knowledge - INFO - persist search terms embedding for tests/test_audio.py
+2025-08-14 10:21:37,778 - Knowledge - INFO - worker kw22 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/image.py from ingest queue
+2025-08-14 10:21:37,782 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:37,786 - Knowledge - INFO - worker kw2 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/audio.py from ingest queue
+2025-08-14 10:21:37,795 - Knowledge - INFO - worker kw16 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mediatype.py from ingest queue
+2025-08-14 10:21:37,797 - Knowledge - INFO - worker kw9 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/ipfs.py from ingest queue
+2025-08-14 10:21:37,799 - Knowledge - INFO - worker kw5 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/video.py from ingest queue
+2025-08-14 10:21:37,900 - Knowledge - INFO - Thread kw22 - File image.py - Remaining files in queue: 13
+2025-08-14 10:21:38,005 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:38,023 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_options.py
+2025-08-14 10:21:38,118 - Knowledge - INFO - Thread kw2 - File audio.py - Remaining files in queue: 13
+2025-08-14 10:21:38,243 - Knowledge - INFO - Thread kw16 - File mediatype.py - Remaining files in queue: 13
+2025-08-14 10:21:38,369 - Knowledge - INFO - Thread kw9 - File ipfs.py - Remaining files in queue: 13
+2025-08-14 10:21:38,454 - Knowledge - INFO - Thread kw5 - File video.py - Remaining files in queue: 13
+2025-08-14 10:21:38,539 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/image.py
+2025-08-14 10:21:38,614 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_models.py
+2025-08-14 10:21:38,773 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_options.py
+2025-08-14 10:21:38,821 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/audio.py
+2025-08-14 10:21:38,894 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mediatype.py
+2025-08-14 10:21:39,011 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/ipfs.py
+2025-08-14 10:21:39,148 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/video.py
+2025-08-14 10:21:40,017 - Knowledge - INFO - persist search terms embedding for tests/test_models.py
+2025-08-14 10:21:40,106 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:40,106 - Knowledge - INFO - worker kw19 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/install.py from ingest queue
+2025-08-14 10:21:40,186 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:40,313 - Knowledge - INFO - Thread kw19 - File install.py - Remaining files in queue: 12
+2025-08-14 10:21:40,438 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_options.py
+2025-08-14 10:21:40,588 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/install.py
+2025-08-14 10:21:40,615 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_epub.py
+2025-08-14 10:21:40,830 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/install.py
+2025-08-14 10:21:40,902 - Knowledge - INFO - worker kw11 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/pdf.py from ingest queue
+2025-08-14 10:21:40,961 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_epub.py
+2025-08-14 10:21:41,030 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/install.py
+2025-08-14 10:21:41,121 - Knowledge - INFO - Thread kw11 - File pdf.py - Remaining files in queue: 11
+2025-08-14 10:21:41,256 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:41,401 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/install.py
+2025-08-14 10:21:41,426 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/pdf.py
+2025-08-14 10:21:41,566 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:41,699 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:41,909 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_epub.py
+2025-08-14 10:21:41,998 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:42,217 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/install.py
+2025-08-14 10:21:42,797 - Knowledge - INFO - persist search terms embedding for tests/test_epub.py
+2025-08-14 10:21:43,078 - Knowledge - INFO - worker kw19 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/monkeys.py from ingest queue
+2025-08-14 10:21:43,080 - Knowledge - INFO - worker kw18 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/exceptions.py from ingest queue
+2025-08-14 10:21:43,158 - Knowledge - INFO - Thread kw19 - File monkeys.py - Remaining files in queue: 9
+2025-08-14 10:21:43,255 - Knowledge - INFO - Thread kw18 - File exceptions.py - Remaining files in queue: 9
+2025-08-14 10:21:43,356 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/monkeys.py
+2025-08-14 10:21:43,487 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/exceptions.py
+2025-08-14 10:21:43,512 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_semantic.py
+2025-08-14 10:21:43,729 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/exceptions.py
+2025-08-14 10:21:43,869 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_semantic.py
+2025-08-14 10:21:43,949 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/exceptions.py
+2025-08-14 10:21:44,063 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:44,221 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/exceptions.py
+2025-08-14 10:21:44,268 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:44,381 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:44,478 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_semantic.py
+2025-08-14 10:21:44,521 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_image.py
+2025-08-14 10:21:44,612 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:44,899 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/exceptions.py
+2025-08-14 10:21:44,854 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_image.py
+2025-08-14 10:21:45,272 - Knowledge - INFO - persist search terms embedding for tests/test_semantic.py
+2025-08-14 10:21:45,534 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:45,545 - Knowledge - INFO - worker kw7 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/options.py from ingest queue
+2025-08-14 10:21:45,550 - Knowledge - INFO - worker kw18 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mp7.py from ingest queue
+2025-08-14 10:21:45,620 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:45,736 - Knowledge - INFO - Thread kw7 - File options.py - Remaining files in queue: 7
+2025-08-14 10:21:45,814 - Knowledge - INFO - Thread kw18 - File mp7.py - Remaining files in queue: 7
+2025-08-14 10:21:45,914 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_image.py
+2025-08-14 10:21:46,124 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/options.py
+2025-08-14 10:21:46,229 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mp7.py
+2025-08-14 10:21:47,258 - Knowledge - INFO - persist search terms embedding for tests/test_image.py
+2025-08-14 10:21:47,341 - Knowledge - INFO - worker kw8 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/thumbnail.py from ingest queue
+2025-08-14 10:21:47,408 - Knowledge - INFO - Thread kw8 - File thumbnail.py - Remaining files in queue: 6
+2025-08-14 10:21:47,521 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/thumbnail.py
+2025-08-14 10:21:48,324 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/docx_.py
+2025-08-14 10:21:48,446 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_docx.py
+2025-08-14 10:21:48,463 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/docx_.py
+2025-08-14 10:21:48,616 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_docx.py
+2025-08-14 10:21:48,660 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:48,772 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:48,879 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:48,998 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:49,112 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/docx_.py
+2025-08-14 10:21:49,212 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_docx.py
+2025-08-14 10:21:49,983 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_cli.py
+2025-08-14 10:21:50,534 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_cli.py
+2025-08-14 10:21:51,330 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mime.py
+2025-08-14 10:21:51,377 - Knowledge - INFO - persist search terms embedding for iscc_sdk/docx_.py
+2025-08-14 10:21:51,545 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mime.py
+2025-08-14 10:21:52,215 - Knowledge - INFO - persist search terms embedding for tests/test_docx.py
+2025-08-14 10:21:52,297 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:52,297 - Knowledge - INFO - worker kw21 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/cli.py from ingest queue
+2025-08-14 10:21:52,298 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:52,299 - Knowledge - INFO - worker kw15 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/CHANGELOG.md from ingest queue
+2025-08-14 10:21:52,391 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:52,499 - Knowledge - INFO - Thread kw21 - File cli.py - Remaining files in queue: 4
+2025-08-14 10:21:52,578 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:52,654 - Knowledge - INFO - Thread kw15 - File CHANGELOG.md - Remaining files in queue: 4
+2025-08-14 10:21:52,758 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_cli.py
+2025-08-14 10:21:52,838 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/cli.py
+2025-08-14 10:21:52,942 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_mime.py
+2025-08-14 10:21:53,019 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/CHANGELOG.md
+2025-08-14 10:21:53,395 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/CHANGELOG.md
+2025-08-14 10:21:53,448 - Knowledge - INFO - persist search terms embedding for tests/test_cli.py
+2025-08-14 10:21:53,472 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/CHANGELOG.md
+2025-08-14 10:21:53,694 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/CHANGELOG.md
+2025-08-14 10:21:54,125 - Knowledge - INFO - persist search terms embedding for tests/test_mime.py
+2025-08-14 10:21:54,254 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:54,270 - Knowledge - INFO - worker kw10 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/epub.py from ingest queue
+2025-08-14 10:21:54,288 - Knowledge - INFO - worker kw1 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/__init__.py from ingest queue
+2025-08-14 10:21:54,381 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:54,531 - Knowledge - INFO - Thread kw10 - File epub.py - Remaining files in queue: 2
+2025-08-14 10:21:54,667 - Knowledge - INFO - Thread kw1 - File __init__.py - Remaining files in queue: 2
+2025-08-14 10:21:54,747 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/CHANGELOG.md
+2025-08-14 10:21:54,837 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/epub.py
+2025-08-14 10:21:54,957 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/__init__.py
+2025-08-14 10:21:55,262 - Knowledge - INFO - worker kw15 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/compat.py from ingest queue
+2025-08-14 10:21:55,362 - Knowledge - INFO - Thread kw15 - File compat.py - Remaining files in queue: 1
+2025-08-14 10:21:55,468 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/compat.py
+2025-08-14 10:21:55,593 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/compat.py
+2025-08-14 10:21:55,678 - Knowledge - INFO - done fast ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/compat.py
+2025-08-14 10:21:55,845 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/compat.py
+2025-08-14 10:21:55,944 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:21:56,078 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:21:56,149 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/compat.py
+2025-08-14 10:21:56,473 - Knowledge - INFO - worker kw15 pull /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/container.py from ingest queue
+2025-08-14 10:21:56,579 - Knowledge - INFO - Thread kw15 - File container.py - Remaining files in queue: 0
+2025-08-14 10:21:56,686 - Knowledge - INFO - start ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/container.py
+2025-08-14 10:22:14,986 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_metadata.py
+2025-08-14 10:22:15,186 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_metadata.py
+2025-08-14 10:22:15,306 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:15,409 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:15,492 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_metadata.py
+2025-08-14 10:22:16,111 - Knowledge - INFO - persist search terms embedding for tests/test_metadata.py
+2025-08-14 10:22:19,040 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/utils.py
+2025-08-14 10:22:19,337 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/utils.py
+2025-08-14 10:22:19,450 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:19,562 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:19,650 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/utils.py
+2025-08-14 10:22:20,533 - Knowledge - INFO - persist search terms embedding for iscc_sdk/utils.py
+2025-08-14 10:22:24,133 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/ipfs.py
+2025-08-14 10:22:24,257 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/ipfs.py
+2025-08-14 10:22:24,358 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:24,470 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:24,593 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/ipfs.py
+2025-08-14 10:22:24,815 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_utils.py
+2025-08-14 10:22:24,956 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_utils.py
+2025-08-14 10:22:25,232 - Knowledge - INFO - persist search terms embedding for iscc_sdk/ipfs.py
+2025-08-14 10:22:25,350 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:25,443 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:25,533 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_utils.py
+2025-08-14 10:22:25,636 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/thumbnail.py
+2025-08-14 10:22:25,830 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/thumbnail.py
+2025-08-14 10:22:26,267 - Knowledge - INFO - persist search terms embedding for tests/test_utils.py
+2025-08-14 10:22:26,375 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:26,459 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:26,532 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/thumbnail.py
+2025-08-14 10:22:26,851 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/container.py
+2025-08-14 10:22:26,974 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/container.py
+2025-08-14 10:22:27,301 - Knowledge - INFO - persist search terms embedding for iscc_sdk/thumbnail.py
+2025-08-14 10:22:27,433 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:27,561 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:27,633 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/container.py
+2025-08-14 10:22:28,193 - Knowledge - INFO - persist search terms embedding for iscc_sdk/container.py
+2025-08-14 10:22:30,377 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/monkeys.py
+2025-08-14 10:22:30,565 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/monkeys.py
+2025-08-14 10:22:30,672 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:30,781 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:30,827 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/metadata.py
+2025-08-14 10:22:30,893 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/monkeys.py
+2025-08-14 10:22:31,030 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/metadata.py
+2025-08-14 10:22:31,664 - Knowledge - INFO - persist search terms embedding for iscc_sdk/monkeys.py
+2025-08-14 10:22:31,801 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:31,910 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:32,024 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/metadata.py
+2025-08-14 10:22:32,136 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mp7.py
+2025-08-14 10:22:32,300 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mp7.py
+2025-08-14 10:22:32,651 - Knowledge - INFO - persist search terms embedding for iscc_sdk/metadata.py
+2025-08-14 10:22:32,871 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:32,975 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:33,011 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/audio.py
+2025-08-14 10:22:33,077 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mp7.py
+2025-08-14 10:22:33,239 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/audio.py
+2025-08-14 10:22:33,465 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/options.py
+2025-08-14 10:22:33,630 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/options.py
+2025-08-14 10:22:33,801 - Knowledge - INFO - persist search terms embedding for iscc_sdk/mp7.py
+2025-08-14 10:22:33,913 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:33,947 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:34,001 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:34,075 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:34,149 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/options.py
+2025-08-14 10:22:34,252 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/audio.py
+2025-08-14 10:22:34,674 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/pdf.py
+2025-08-14 10:22:34,831 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/pdf.py
+2025-08-14 10:22:34,865 - Knowledge - INFO - persist search terms embedding for iscc_sdk/options.py
+2025-08-14 10:22:35,033 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:35,121 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:35,214 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/pdf.py
+2025-08-14 10:22:35,547 - Knowledge - INFO - persist search terms embedding for iscc_sdk/audio.py
+2025-08-14 10:22:36,283 - Knowledge - INFO - persist search terms embedding for iscc_sdk/pdf.py
+2025-08-14 10:22:38,070 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/__init__.py
+2025-08-14 10:22:38,206 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/__init__.py
+2025-08-14 10:22:38,346 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:38,443 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:38,538 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/__init__.py
+2025-08-14 10:22:39,194 - Knowledge - INFO - persist search terms embedding for iscc_sdk/__init__.py
+2025-08-14 10:22:40,977 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_a_tools.py
+2025-08-14 10:22:41,110 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_a_tools.py
+2025-08-14 10:22:41,303 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:41,366 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/epub.py
+2025-08-14 10:22:41,430 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:41,578 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/epub.py
+2025-08-14 10:22:41,624 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_a_tools.py
+2025-08-14 10:22:41,698 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mediatype.py
+2025-08-14 10:22:41,801 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:42,024 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mediatype.py
+2025-08-14 10:22:42,093 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:42,464 - Knowledge - INFO - persist search terms embedding for tests/test_a_tools.py
+2025-08-14 10:22:42,501 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/epub.py
+2025-08-14 10:22:42,694 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:42,783 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/cli.py
+2025-08-14 10:22:42,869 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:43,042 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/cli.py
+2025-08-14 10:22:43,113 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/mediatype.py
+2025-08-14 10:22:43,354 - Knowledge - INFO - persist search terms embedding for iscc_sdk/epub.py
+2025-08-14 10:22:43,653 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/text.py
+2025-08-14 10:22:43,818 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/text.py
+2025-08-14 10:22:43,887 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_text.py
+2025-08-14 10:22:44,073 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_text.py
+2025-08-14 10:22:44,226 - Knowledge - INFO - persist search terms embedding for iscc_sdk/mediatype.py
+2025-08-14 10:22:44,374 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:44,409 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:44,479 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:44,497 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:44,584 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:44,669 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:44,757 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_text.py
+2025-08-14 10:22:44,859 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/text.py
+2025-08-14 10:22:44,954 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/cli.py
+2025-08-14 10:22:45,678 - Knowledge - INFO - persist search terms embedding for tests/test_text.py
+2025-08-14 10:22:46,496 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_video.py
+2025-08-14 10:22:46,623 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_video.py
+2025-08-14 10:22:46,626 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/video.py
+2025-08-14 10:22:46,867 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/video.py
+2025-08-14 10:22:47,187 - Knowledge - INFO - persist search terms embedding for iscc_sdk/text.py
+2025-08-14 10:22:47,308 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:47,340 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:47,396 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:47,539 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:47,628 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_video.py
+2025-08-14 10:22:47,725 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/video.py
+2025-08-14 10:22:47,847 - Knowledge - INFO - persist search terms embedding for iscc_sdk/cli.py
+2025-08-14 10:22:48,669 - Knowledge - INFO - persist search terms embedding for tests/test_video.py
+2025-08-14 10:22:49,182 - Knowledge - INFO - persist search terms embedding for iscc_sdk/video.py
+2025-08-14 10:22:51,606 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/main.py
+2025-08-14 10:22:51,728 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/main.py
+2025-08-14 10:22:51,866 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:51,959 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:52,079 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/main.py
+2025-08-14 10:22:52,725 - Knowledge - INFO - persist search terms embedding for iscc_sdk/main.py
+2025-08-14 10:22:54,005 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/tools.py
+2025-08-14 10:22:54,229 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/tools.py
+2025-08-14 10:22:54,599 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:54,604 - Knowledge - ERROR - _service_ingest_queue had exception  for file /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_main.py
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.11/asyncio/tasks.py", line 500, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "/app/app/utils/kg_build/knowledge.py", line 1723, in _ingest_file
+    response = await llm.llm_interaction_wrapper(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/llm_wrapper/core/llm_interface.py", line 338, in llm_interaction_wrapper
+    completion = await invoke_llm()
+                 ^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/site-packages/llm_wrapper/core/llm_interface.py", line 284, in invoke_llm
+    return await loop.run_in_executor(None, blocking_call_wrapper)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/app/app/utils/kg_build/knowledge.py", line 324, in _service_ingest_queue
+    file_info = self.loop_worker.run_until_complete(asyncio.wait_for( knowledge._ingest_file(filename, self.mongo_handler), knowledge.timeout))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.11/asyncio/tasks.py", line 502, in wait_for
+    raise exceptions.TimeoutError() from exc
+TimeoutError
+2025-08-14 10:22:54,741 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:55,081 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/tools.py
+2025-08-14 10:22:55,133 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_main.py
+2025-08-14 10:22:56,103 - Knowledge - INFO - persist search terms embedding for iscc_sdk/tools.py
+2025-08-14 10:22:56,448 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:22:56,560 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:22:56,658 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/tests/test_main.py
+2025-08-14 10:23:26,980 - Knowledge - INFO - done ingest for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/image.py
+2025-08-14 10:23:27,109 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/image.py
+2025-08-14 10:23:27,184 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/iscc-sdk-125017.git:kavia-main
+2025-08-14 10:23:27,260 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fd87874c490>
+2025-08-14 10:23:27,353 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/125017/b1454nw/iscc-sdk-125017/iscc_sdk/image.py
+2025-08-14 10:23:27,512 - Knowledge - INFO - Knowledge creation complete
+2025-08-14 10:23:27,590 - Knowledge - INFO - Updating org costs, total cost: 0.032549999999999996
+2025-08-14 10:23:28,656 - Knowledge - INFO - Saving knowledge to Redis...
+2025-08-14 10:23:28,788 - Knowledge - INFO - Knowledge saved to Redis successfully
